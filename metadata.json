@@ -1,0 +1,7 @@
+{
+  "name": "Survey Sense - AI Survey & Decision Intelligence",
+  "description": "A next-generation platform that transforms survey responses into real-time AI-powered insights, sentiment analysis, and predictive decision-making.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
